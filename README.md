@@ -1,4 +1,4 @@
-# challengeACL
+# ChallengeACL
 
 ## Guía para levantar la api 
 
@@ -19,4 +19,15 @@ Clona el repositorio en tu máquina local:
 - git clone https://github.com/GaedoC/challengeACL.git
 - cd ./challengeACL
 
+2. 2. Configurar la Base de Datos MySQL
+Crea una base de datos en MySQL. Puedes hacerlo utilizando el siguiente comando MySQL:
+
+- CREATE DATABASE demos;
+
+Actualiza las credenciales y la URL de conexión en el archivo, src/main/resources/application.properties:
+
+spring.datasource.url=jdbc:mysql://localhost:3306/tasks_db.
+spring.datasource.username=tu_usuario.
+spring.datasource.password=tu_contraseña.
+spring.jpa.hibernate.ddl-auto=update.
 
