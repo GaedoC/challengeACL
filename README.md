@@ -7,9 +7,9 @@ Para levantar el proyecto desde la consola sigue los siguientes pasos a continua
 
 ## Requisitos previos
 
-Java 17: Asegúrate de tener Java 17 instalado.
-Maven: Asegúrate de tener Maven instalado.
-MySQL: Asegúrate de tener MySQL instalado y corriendo.
+- Java 17: Asegúrate de tener Java 17 instalado.
+- Maven: Asegúrate de tener Maven instalado.
+- MySQL: Asegúrate de tener MySQL instalado y corriendo.
 
 ## Pasos para Levantar el Proyecto
 
