@@ -23,7 +23,11 @@ Clona el repositorio en tu máquina local:
 Crea una base de datos en MySQL. Puedes hacerlo utilizando el siguiente comando MySQL y actualiza las credenciales y la URL de conexión en el archivo, src/main/resources/application.properties
 
 - CREATE DATABASE demos;
-- ![image](https://github.com/GaedoC/challengeACL/assets/17816969/dc278f20-8968-4ac3-b6b5-63dec955e4c8)
+
+En application.properties agregue su usuario y contraseña de mysql.
+- spring.datasource.url=jdbc:mysql://localhost:3306/demos
+- spring.datasource.username=root
+- spring.datasource.password=
 
 3. Construir el Proyecto
 Construye el proyecto utilizando Maven:
