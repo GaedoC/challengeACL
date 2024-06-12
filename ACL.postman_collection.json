@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "808f98ea-d7f4-4827-8302-8b71951e6931",
+		"name": "ACL",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "472387"
+	},
+	"item": [
+		{
+			"name": "create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n        \"descripcion\": \"Tarea 888\",\r\n        \"fechaCreacion\": \"2024-06-12T07:04:28\",\r\n        \"vigente\": null\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8669/api/tasks/save"
+			},
+			"response": []
+		},
+		{
+			"name": "edit",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n        \"descripcion\": \"Tarea 888\",\r\n        \"fechaCreacion\": \"2024-06-12T07:04:28\",\r\n        \"vigente\": null\r\n    }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "localhost:8669/api/tasks/save"
+			},
+			"response": []
+		},
+		{
+			"name": "delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": "localhost:8669/api/tasks/1"
+			},
+			"response": []
+		},
+		{
+			"name": "getById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:8669/api/tasks/1"
+			},
+			"response": []
+		},
+		{
+			"name": "getAll",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "localhost:8669/api/tasks"
+			},
+			"response": []
+		}
+	]
+}
