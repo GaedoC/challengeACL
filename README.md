@@ -19,7 +19,7 @@ Clona el repositorio en tu máquina local:
 - git clone https://github.com/GaedoC/challengeACL.git
 - cd ./challengeACL
 
-2. Configurar la Base de Datos MySQL
+2. Configura la Base de Datos MySQL
 Crea una base de datos en MySQL y puedes hacerlo utilizando la query que se encuentra en el apartado.Actualiza las credenciales y la URL de conexión del  archivo resources/application.properties
 
 - CREATE DATABASE demos;
