@@ -37,7 +37,7 @@ Levanta el proyecto utilizando Maven:
 
 ## Interactuar con la API (SWAGGER UI)
 
-1. Abre tu navegador y navega a http://localhost:8080/swagger-ui/index.html para ver la documentación Swagger de tu API. Esto te permitirá interactuar con los endpoints de la API directamente desde el navegador y así poder probarlos. Tambien agregue un postman collection .
+1. Abre tu navegador y navega a http://localhost:8669/swagger-ui/index.html para ver la documentación Swagger de tu API. Esto te permitirá interactuar con los endpoints de la API directamente desde el navegador y así poder probarlos. Tambien agregue un postman collection .
 
 Espero les sea útil . Saludos
 Gustavo Andrés Aedo Conejera
