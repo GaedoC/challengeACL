@@ -16,7 +16,7 @@ MySQL: Asegúrate de tener MySQL instalado y corriendo.
 1. Clonar el Repositorio
 Clona el repositorio en tu máquina local:
 
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/GaedoC/challengeACL.git)
-cd ./challengeACL
+- git clone [<URL_DEL_REPOSITORIO>](https://github.com/GaedoC/challengeACL.git)
+- cd ./challengeACL
 
 
