@@ -1,0 +1,10 @@
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\config\SwaggerConfig.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\repository\TaskRepository.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\SpringbootChallengeApplication.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\controller\TaskController.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\service\TaskService.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\config\DataLoader.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\error\TaskNotFoundException.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\error\ValidationExceptionHandler.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\model\Task.java
+C:\TestACL\MicroServicio\TestSermaluc\springboot-challenge\src\main\java\cl\challenge\api\service\TaskServiceImpl.java

@@ -1,0 +1,10 @@
+cl\challenge\api\config\DataLoader.class
+cl\challenge\api\repository\TaskRepository.class
+cl\challenge\api\SpringbootChallengeApplication.class
+cl\challenge\api\error\ValidationExceptionHandler.class
+cl\challenge\api\service\TaskService.class
+cl\challenge\api\config\SwaggerConfig.class
+cl\challenge\api\model\Task.class
+cl\challenge\api\service\TaskServiceImpl.class
+cl\challenge\api\controller\TaskController.class
+cl\challenge\api\error\TaskNotFoundException.class

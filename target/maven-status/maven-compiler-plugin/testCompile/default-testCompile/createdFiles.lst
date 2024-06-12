@@ -1,0 +1,4 @@
+cl\challenge\api\service\test\TaskServiceTest.class
+cl\challenge\api\SpringbootChallengeApplicationTests.class
+cl\challenge\api\controller\test\TaskControllerTest2.class
+cl\challenge\api\controller\test\TaskControllerTest.class
