@@ -1,7 +1,7 @@
 # Challenge ACL
 
 
-## Guía para levantar la api 
+## Guía para levantar la api (Spring Boot)
 
 Para levantar el proyecto desde la consola sigue los siguientes pasos a continuación. Esta documentación incluye cómo clonar el repositorio, configurar base de datos MySQL, construir y ejecutar este proyecto, así como tambien interactuar con la API utilizando Swagger para documentar la API.
 
@@ -11,7 +11,7 @@ Para levantar el proyecto desde la consola sigue los siguientes pasos a continua
 - Maven: Asegúrate de tener Maven instalado.
 - MySQL: Asegúrate de tener MySQL instalado y corriendo.
 
-## Pasos para Levantar el Proyecto
+## Pasos para Levantar el Proyecto (Maven)
 
 1. Clonar el Repositorio
 Clona el repositorio en tu máquina local:
@@ -43,12 +43,13 @@ Levanta el proyecto utilizando Maven:
 
 1. Abre tu navegador y navega a http://localhost:8669/swagger-ui/index.html para ver la documentación Swagger de tu API. Esto te permitirá interactuar con los endpoints de la API directamente desde el navegador y así poder probarlos. Tambien agregue un postman collection .
 
-## Desarrollo Front End
+## Desarrollo Front End (REACT)
 
 1.Creción de proyecto con REACT y REDUX.
 
 Espero les sea útil . Saludos
 Gustavo Andrés Aedo Conejera
+
 
 
 
